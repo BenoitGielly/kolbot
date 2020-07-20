@@ -1,0 +1,2 @@
+// ##### Grand Charms ##################
+[Name] == GrandCharm && [Quality] == unique # [ItemReducedPrices] >= 13 && [ItemMagicBonus] >= 35 # [MaxQuantity] == 1
